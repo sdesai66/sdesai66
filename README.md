@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- 🌊 Gradient Hero Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=Hi%20I'm%20Sonu Desai!&fontAlignY=40&fontSize=48" />
+![Profile] (profile.png)
+<img src="" />
 
 ### 🎨 Designer · 💻 Learning to Code · 🚀 Builder  
 **Tempe, Arizona | Open to collaboration**
