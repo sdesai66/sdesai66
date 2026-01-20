@@ -6,7 +6,6 @@
 <img src="Profile.png" width="700" /> <br></br>
 <img src="about me symbol.png" width="200" /><br></br>
 <img src="about me 1.png" width="600" /> <br></br>
-<img src="About Me 2.png" width="600" /> <br></br>
 
 
 <br></br>
@@ -19,13 +18,3 @@
 
 <!-- ✨ Animated Typing -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77EB9&center=true&vCenter=true&lines=Designer+who+codes;Learning+Frontend+Development;Building+beautiful+things)
-
-</div>
-
----
-
-## ✨ About Me
-```txt
-I design first, then code.
-I care about color, motion, spacing,
-and building interfaces people enjoy using.
