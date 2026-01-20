@@ -16,5 +16,4 @@
   
 </p>
 
-<br></br>
 <img src="Footer.png" /> <br></br>
