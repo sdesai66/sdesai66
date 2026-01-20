@@ -12,7 +12,11 @@
 
 <p>
  
-  <a href="https://sonudesaistudio.framer.website"> Portfolio </a> • <a href="https://www.linkedin.com/in/sonudesai/"> LinkedIn </a> • <a href="sdesai66@asu.edu"> Email </a>
+  <a href="https://sonudesaistudio.framer.website">🌐 My Portfolio </a>
+  
+  <a href="https://www.linkedin.com/in/sonudesai/">💼 My LinkedIn Profile</a>
+  
+  <a href="sdesai66@asu.edu"> 📩 Contact Me </a>
   
 </p>
 
