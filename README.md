@@ -3,8 +3,8 @@
 <div align="center">
 
 <!-- 🌊 Gradient Hero Header -->
-<img src="Profile.png" width="700" /> <hr></hr>
-<img src="about me symbol.png" width="300" /><hr></hr>
+<img src="Profile.png" width="700" /> <br></br>
+<img src="about me symbol.png" width="200" /><br></br>
 <img src="Profile.png" width="700" />
 
 <br></br>
