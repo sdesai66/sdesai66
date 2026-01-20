@@ -6,7 +6,7 @@
 <img src="Profile.png" />
 
  
-**Tempe, Arizona | Open to collaboration**
+<hr></hr>
 
 <p>
   <a href="https://sonudesaistudio.framer.website">🌐 Portfolio</a> •
