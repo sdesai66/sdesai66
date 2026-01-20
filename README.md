@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- 🌊 Gradient Hero Header -->
-![Profile] (profile.png)
-<img src="" />
+<img src="Profile.png" />
 
 ### 🎨 Designer · 💻 Learning to Code · 🚀 Builder  
 **Tempe, Arizona | Open to collaboration**
