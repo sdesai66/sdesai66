@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- 🌊 Gradient Hero Header -->
-<img src="Profile.png" width="300" />
+<img src="Profile.png" width="700" />
 
 <br></br>
 
