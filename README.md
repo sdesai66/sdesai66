@@ -12,7 +12,7 @@
 
 <p>
   <img src="" /> <br></br>
-  <img src="" /> <br></br>
+  <img src="Portfolio logo.png" /> <br></br>
   <img src="" /> <br></br>
   
   <a href="https://sonudesaistudio.framer.website">🌐 Portfolio</a> •
