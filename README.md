@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/sonudesai/">💼 LinkedIn</a> •
   <a href="sdesai66@asu.edu">📩 Email</a>
 </p>
-<br></br>
-<!-- ✨ Animated Typing -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77EB9&center=true&vCenter=true&lines=Designer+who+codes;Learning+Frontend+Development;Building+beautiful+things)
 
 <br></br>
 <img src="footer.png" /> <br></br>
