@@ -11,14 +11,11 @@
 <br></br>
 
 <p>
-  <img src=""  width="40"/> 💼 LinkedIn <br></br>
-  <img src="Portfolio logo.png"  width="40"/> 🌐 Portfolio <br></br>
-  <img src="" width="40" />📩 Email <br></br>
   
-  <img src="Portfolio logo.png"  width="40"/> <a href="https://sonudesaistudio.framer.website">Portfolio</a> •
-
-  <img src="Portfolio logo.png"  width="40"/> <a href="https://www.linkedin.com/in/sonudesai/">LinkedIn</a> •
-  <img src="Portfolio logo.png"  width="40"/> <a href="sdesai66@asu.edu">Email</a>
+  <img src="Portfolio logo.png"  width="30"/> <a href="https://sonudesaistudio.framer.website">Portfolio</a> •
+  <img src=""  width="30"/> <a href="https://www.linkedin.com/in/sonudesai/">LinkedIn</a> •
+  <img src=""  width="30"/> <a href="sdesai66@asu.edu">Email</a>
+  
 </p>
 
 <br></br>
