@@ -11,9 +11,9 @@
 <br></br>
 
 <p>
-  <img src="" /> <br></br>
-  <img src="Portfolio logo.png" /> <br></br>
-  <img src="" /> <br></br>
+  <img src=""  width="40"/> 💼 LinkedIn <br></br>
+  <img src="Portfolio logo.png"  width="40"/> 🌐 Portfolio <br></br>
+  <img src="" width="40" />📩 Email <br></br>
   
   <a href="https://sonudesaistudio.framer.website">🌐 Portfolio</a> •
 
