@@ -11,7 +11,10 @@
 <br></br>
 
 <p>
+  
   <a href="https://sonudesaistudio.framer.website">🌐 Portfolio</a> •
+
+  <img src="[Footer.png](https://x.com/LinkedIn)" /> <br></br>
   <a href="https://www.linkedin.com/in/sonudesai/">💼 LinkedIn</a> •
   <a href="sdesai66@asu.edu">📩 Email</a>
 </p>
