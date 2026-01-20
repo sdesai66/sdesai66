@@ -6,7 +6,7 @@
 <img src="Profile.png" />
 
  
-<hr></hr>
+<br></br>
 
 <p>
   <a href="https://sonudesaistudio.framer.website">🌐 Portfolio</a> •
