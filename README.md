@@ -17,4 +17,4 @@
 </p>
 
 <br></br>
-<img src="footer.png" /> <br></br>
+<img src="Footer.png" /> <br></br>
