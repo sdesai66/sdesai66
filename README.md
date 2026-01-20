@@ -5,7 +5,7 @@
 <!-- 🌊 Gradient Hero Header -->
 <img src="Profile.png" width="700" /> <br></br>
 <img src="about me symbol.png" width="200" /><br></br>
-<img src="Profile.png" width="700" />
+<img src="about me 1.png" width="600" /> <br></br>
 
 <br></br>
 
