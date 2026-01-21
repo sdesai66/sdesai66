@@ -32,4 +32,4 @@
   
 </p>
 
-<img src="Footer.png" /> <br></br>
+<img src="Footer.png" width="600" /> <br></br>
