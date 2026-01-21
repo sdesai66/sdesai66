@@ -22,8 +22,6 @@
 <br></br>
 
 <p>
- 
-  <a href="https://sonudesaistudio.framer.website"> 🌐 My Portfolio </a>
   
   <a href="https://www.linkedin.com/in/sonudesai/">💼 My LinkedIn Profile</a>
   
