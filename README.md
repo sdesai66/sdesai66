@@ -22,7 +22,7 @@
 <br></br>
 
 <a href="sdesai66@asu.edu">
-  <img src="Email me.png" alt="Click here" width="600">
+  <img src="Email me.png" alt="Click here" width="500">
 </a>
 
 <br></br>
