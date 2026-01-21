@@ -32,4 +32,4 @@
     <img src="LinkedIn.png" alt="LinkedIn" class="icon" width="40">
   </a>
   
-<img src="Footer.png" width="600" />
+<img src="Footer.png" width="600" /> <br></br>
