@@ -30,7 +30,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/sonudesai/" target="_blank">
-    <img src="LinkedIn.png" alt="LinkedIn" class="icon" width="30">
+    <img src="LinkedIn.png" alt="LinkedIn" class="icon" width="40">
   </a>
 </div>
 
