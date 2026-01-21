@@ -26,11 +26,11 @@
 <div class="right-icons">
 
   <a href="sdesai66@asu.edu">
-    <img src="Gmail logo.png" alt="Email" class="icon" width="80">
+    <img src="Gmail logo.png" alt="Email" class="icon" width="80" align="right">
   </a>
 
   <a href="https://www.linkedin.com/in/sonudesai/" target="_blank">
-    <img src="LinkedIn.png" alt="LinkedIn" class="icon" width="60">
+    <img src="LinkedIn.png" alt="LinkedIn" class="icon" width="40">
   </a>
 </div>
 
