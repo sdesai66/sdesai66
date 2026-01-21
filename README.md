@@ -18,7 +18,6 @@
   <img src="View more.png" alt="Click here" width="150">
 </a>
 
-
 <br></br>
 
 <a href="sdesai66@asu.edu">
@@ -26,10 +25,5 @@
 </a>
 
 <br></br>
-
-<p>
-  <a href="https://www.linkedin.com/in/sonudesai/">💼 My LinkedIn Profile</a>
-  
-</p>
 
 <img src="Footer.png" width="600" /> <br></br>
