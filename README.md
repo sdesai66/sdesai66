@@ -21,11 +21,14 @@
 
 <br></br>
 
+<a href="sdesai66@asu.edu">
+  <img src="Email me.png" alt="Click here" width="600">
+</a>
+
+<br></br>
+
 <p>
-  
   <a href="https://www.linkedin.com/in/sonudesai/">💼 My LinkedIn Profile</a>
-  
-  <a href="sdesai66@asu.edu"> 📩 Contact Me </a>
   
 </p>
 
