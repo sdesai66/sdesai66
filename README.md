@@ -8,10 +8,9 @@
 <img src="about me 1.png" width="600" /> <br></br>
 
 <img src="Projects logo.png" width="200" /> <br></br>
-<img src="Projects.png" width="600" /> <br></br>
 
 <a href="https://sonudesaistudio.framer.website/#projects">
-  <img src="Projects.png" alt="Click here" width="200">
+  <img src="Projects.png" alt="Click here" width="600">
 </a>
 
 <br></br>
