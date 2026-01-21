@@ -31,5 +31,4 @@
   <a href="https://www.linkedin.com/in/sonudesai/" target="_blank">
     <img src="LinkedIn.png" alt="LinkedIn" class="icon" width="40">
   </a>
-
-<img src="Footer.png" width="600" /> <br></br>
+<img src="Footer.png" width="600" />
