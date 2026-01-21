@@ -23,5 +23,15 @@
   <img src="Email me.png" alt="Click here" width="500">
 </a>
 
+<div class="right-icons">
+
+  <a href="sdesai66@asu.edu">
+    <img src="email-icon.png" alt="Email" class="icon">
+  </a>
+
+  <a href="https://www.linkedin.com/in/sonudesai/" target="_blank">
+    <img src="linkedin-icon.png" alt="LinkedIn" class="icon">
+  </a>
+</div>
 
 <img src="Footer.png" width="600" /> <br></br>
