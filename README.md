@@ -15,7 +15,7 @@
 
 <br></br>
 <a href="https://sonudesaistudio.framer.website/#home">
-  <img src="portfolio link.png" alt="Click here" width="800">
+  <img src="View more.png" alt="Click here" width="800">
 </a>
 
 
