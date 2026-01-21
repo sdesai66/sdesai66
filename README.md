@@ -7,6 +7,8 @@
 <img src="about me symbol.png" width="200" /><br></br>
 <img src="about me 1.png" width="600" /> <br></br>
 
+<img src="projects logo.png" width="600" /> <br></br>
+<img src="projects.png" width="600" /> <br></br>
 
 <br></br>
 
